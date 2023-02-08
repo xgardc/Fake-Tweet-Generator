@@ -1,0 +1,18 @@
+{
+  "tweet": {
+    "content": "İçerik",
+    "image": "Profil Resmi",
+    "name": "Adı",
+    "username": "Kullanıcı adı",
+    "time": "Zamanı",
+    "comments": "Yorumlar",
+    "retweets": "Retweetler",
+    "likes": "Beğeniler",
+    "views": "Görüntülenme",
+    "upload": "Dosya Yükle",
+    "download": "Fotoğraf olarak indir"
+  },
+  "thousand": "B",
+  "million": "M",
+  "language": "Dil"
+}

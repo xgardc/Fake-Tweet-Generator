@@ -1,0 +1,18 @@
+{
+  "tweet": {
+    "content": "Content",
+    "image": "Profile Picture",
+    "name": "Name",
+    "username": "Username",
+    "time": "Time",
+    "comments": "Comments",
+    "retweets": "Retweets",
+    "likes": "Likes",
+    "views": "Views",
+    "upload": "Upload File",
+    "download": "Download as photo"
+  },
+  "thousand": "K",
+  "million": "M",
+  "language": "Language"
+}
